@@ -1,172 +1,162 @@
-# 👋 Hey, I'm Abhinav Jai Vathsav
+<!--
+  ABHINAV JAI VATHSAV | GITHUB PROFILE
+  Theme: Minimal Futuristic
+  Palette: Dark Navy / Blue / Cyan
+-->
 
-### AI & ML Engineering Student | Developer | Problem Solver
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+Solutions;Exploring+Software+%26+DevOps;Always+Learning.+Always+Building." />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:101B2D,100:0D1117&height=12" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/abhinavjv">
-    <img src="https://img.shields.io/badge/GitHub-abhinavjv-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhinavjv/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:abhinavjaivathsav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# ABHINAV JAI VATHSAV
 
----
+### AI & ML ENGINEERING STUDENT
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Development+%26+Automation;Building+Practical+Technology+Solutions;Learning.+Engineering.+Building." alt="Animated introduction"/>
 
-I'm a third-year Artificial Intelligence and Machine Learning engineering student at **BNM Institute of Technology, Bengaluru**, passionate about developing intelligent systems and building practical technology solutions.
+**Artificial Intelligence · Software Engineering · Automation · IoT**
 
-I enjoy exploring the intersection of Artificial Intelligence, software development, automation and real-world engineering.
+<br/>
 
-- 🎓 Pursuing B.E. in Artificial Intelligence & Machine Learning
-- 🤖 Interested in Machine Learning and AI-driven applications
-- 💻 Working with Python, Java, C++ and SQL
-- ⚙️ Exploring CI/CD automation, Docker and software reliability
-- 🔌 Interested in IoT systems and connected-device applications
-- 🎯 Currently looking for opportunities to apply my skills through real-world projects and internships.
+[GitHub](https://github.com/abhinavjv) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/abhinavjv/) &nbsp; · &nbsp; [Email](mailto:abhinavjaivathsav@gmail.com)
+
+**Bengaluru, India**
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## ABOUT
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Development Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
-| **AI / ML** | Machine Learning · AI Fundamentals · Data Analysis |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) CI/CD · Pipeline Automation |
-| **IoT & Embedded Systems** | Arduino · Firebase Realtime Database · Java Swing |
-| **Core Skills** | Problem Solving · Technical Communication · Client Communication · System Reliability |
+I am a third-year Artificial Intelligence and Machine Learning engineering student at **BNM Institute of Technology, Bengaluru**, interested in building practical software solutions and exploring intelligent systems.
+
+My technical interests include machine learning, software development, automation, DevOps and Internet of Things. I enjoy understanding how systems work, solving engineering problems and turning ideas into functional applications.
+
+Alongside my technical pursuits, I have experience in freelance content creation, client communication and managing end-to-end creative projects.
+
+**Currently focused on:** Strengthening my foundations in AI/ML, software engineering and system design through hands-on projects.
 
 ---
 
-## 💼 Professional Experience
+## TECHNICAL SKILLS
 
-### Freelance Video Creator — Flashoot
-*Present*
+| CATEGORY | TECHNOLOGIES |
+|:---|:---|
+| **Programming Languages** | Python · Java · C++ · SQL |
+| **AI & Machine Learning** | Machine Learning Fundamentals · AI · Data Analysis |
+| **Development Tools** | Git · GitHub · VS Code |
+| **Cloud & DevOps** | Docker · CI/CD · Pipeline Automation · Shell Scripting |
+| **IoT & Embedded Systems** | Arduino · Firebase Realtime Database |
+| **Frameworks & Interfaces** | Java Swing |
+| **Core Competencies** | Problem Solving · Technical Communication · Client Communication · System Reliability |
 
-- Produced and edited professional short-form video content and reels for diverse clients.
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### Freelance Video Creator
+
+**Flashoot** | Present
+
+- Produced and edited professional short-form video content for diverse clients.
 - Managed the complete content lifecycle, from concept development to final delivery.
-- Consistently delivered high-quality content within tight deadlines.
-- Developed time-management, creative problem-solving and client communication skills while balancing engineering coursework.
+- Delivered high-quality content within tight deadlines.
+- Developed client communication, creative problem-solving and time-management skills while balancing engineering coursework.
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
-### 1. Autonomous CI/CD Healing Agent
+### 01 / Autonomous CI/CD Healing Agent
+
 **Automated Pipeline Monitoring & Recovery**
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project Architecture</b></summary>
 
-| Category | Description |
-|---|---|
+| COMPONENT | DESCRIPTION |
+|:---|:---|
 | **Problem** | CI/CD pipeline failures require manual monitoring, diagnosis and intervention, slowing down software deployment cycles. |
 | **Architecture** | Developed an automated healing agent designed to monitor, diagnose and repair common pipeline failures through automated error tracking and recovery scripts. |
-| **Stack** | Python · CI/CD · Automation |
+| **Technology Stack** | Python · CI/CD · Shell Scripting |
 | **Key Features** | Automated error tracking · Pipeline monitoring · Recovery scripts · Reduced manual intervention · Improved deployment reliability |
-| **Outcome** | Demonstrates practical understanding of DevOps principles, automation and system reliability. |
-| **GitHub** | [View Repository](YOUR-CICD-REPOSITORY-LINK) |
+| **Focus Areas** | DevOps · Automation · Software Reliability |
+| **Repository** | [View Source Code](YOUR-CICD-REPOSITORY-LINK) |
 
 </details>
 
-### 2. Student-Based IoT Dashboard
+---
+
+### 02 / Student-Based IoT Dashboard
+
 **Real-Time Smart Device Management System**
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project Architecture</b></summary>
 
-| Category | Description |
-|---|---|
+| COMPONENT | DESCRIPTION |
+|:---|:---|
 | **Problem** | Managing and monitoring multiple physical IoT devices requires a centralized and synchronized control system. |
 | **Architecture** | Developed a full-stack IoT dashboard using Java Swing, Firebase Realtime Database and Arduino (C++), enabling real-time command synchronization through a custom cloud bridge. |
-| **Stack** | Java · Java Swing · Firebase · Arduino · C++ |
-| **Key Features** | Real-time device monitoring · Command synchronization · No-code automation engine · Custom DeviceManager · Smart home logic |
-| **Outcome** | Enabled personalized smart-home automation and consistent control of digital and analog signals. |
-| **GitHub** | [View Repository](YOUR-IOT-REPOSITORY-LINK) |
+| **Technology Stack** | Java · Java Swing · Firebase Realtime Database · Arduino · C++ |
+| **Key Features** | Real-time command synchronization · Device monitoring · No-code automation engine · Custom DeviceManager · Smart home logic |
+| **Focus Areas** | IoT · Full-Stack Development · Cloud Integration |
+| **Repository** | [View Source Code](YOUR-IOT-REPOSITORY-LINK) |
 
 </details>
 
 ---
 
-## 🏆 Achievements & Recognition
+## ACHIEVEMENTS & RECOGNITION
 
-| Achievement | Recognition |
-|---|---|
-| 🥇 **Prodhathon 2024** | First Place – Product/Service Category, BNM Institute of Technology |
-| 🏅 **RIFT '26 Hackathon** | Semi-Finalist – Selected among 600+ competing teams in a national-level 24-hour offline rapid prototyping marathon |
+| YEAR | ACHIEVEMENT | RECOGNITION |
+|:---|:---|:---|
+| 2024 | Prodhathon | First Place – Product/Service Category, BNM Institute of Technology |
+| 2026 | RIFT '26 Hackathon | Semi-Finalist – Selected among 600+ competing teams in a national-level 24-hour offline rapid prototyping hackathon |
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
-**Bachelor of Engineering – Artificial Intelligence and Machine Learning**
+**Bachelor of Engineering**
 
-BNM Institute of Technology, Bengaluru
+Artificial Intelligence and Machine Learning
 
-| Detail | Information |
-|---|---|
-| Degree | B.E. |
+**BNM Institute of Technology, Bengaluru**
+
+| ACADEMIC DETAIL | INFORMATION |
+|:---|:---|
+| Degree | Bachelor of Engineering |
 | Specialization | Artificial Intelligence and Machine Learning |
 | Institution | BNM Institute of Technology |
-| Expected Graduation | July 2028 |
 | GPA | 9.0 |
+| Expected Graduation | 2028 |
 
 ---
 
-## 📊 GitHub Analytics
+## CONNECT
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavjv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjv&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+I am interested in connecting with developers, engineers and innovators working on meaningful technology solutions.
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavjv&theme=tokyonight&hide_border=true"/>
-</p>
+| PLATFORM | PROFILE |
+|:---|:---|
+| **GitHub** | [github.com/abhinavjv](https://github.com/abhinavjv) |
+| **LinkedIn** | [linkedin.com/in/abhinavjv](https://www.linkedin.com/in/abhinavjv/) |
+| **Email** | [abhinavjaivathsav@gmail.com](mailto:abhinavjaivathsav@gmail.com) |
+| **Location** | Bengaluru, India |
+
+<br/>
+
+<div align="center">
 
 ---
 
-## 🤝 Let's Connect
+<sub>BUILDING PRACTICAL SOLUTIONS THROUGH ENGINEERING AND CONTINUOUS LEARNING.</sub>
 
-I'm always interested in connecting with developers, engineers, innovators and people working on exciting technology projects.
+<br/>
 
-<p align="center">
-  <a href="https://github.com/abhinavjv">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhinavjv/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:abhinavjaivathsav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:2DD4BF&height=3&section=footer" width="100%"/>
 
-<p align="center">
-  <i>"Learn continuously. Build fearlessly. Create something meaningful."</i>
-</p>
-
-<!--
-**abhinavjv/abhinavjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
